@@ -17,9 +17,6 @@ Ensure you have Python 3.10+ installed on your system.
 # Clone the repository
 git clone  https://github.com/ouabiaga/BearDDOS.git
 cd BearDDOS
-
-# Install dependencies
-pip install -r requirements.txt
 ```
 
 ### Create `requirements.txt`
